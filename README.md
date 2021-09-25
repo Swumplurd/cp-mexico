@@ -4,8 +4,6 @@
 
 Recopilacion de datos extraidos del Servicio Postal Mexicano y convertidos a formato `.csv` y `.json` para su posterior implementacion en diferentes proyectos.
 
----
-
 # Descripcion de datos
 
 | COLUMNA          | DESCRIPCIÓN                                                           |
