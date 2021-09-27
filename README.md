@@ -22,4 +22,4 @@ Recopilacion de datos extraidos del Servicio Postal Mexicano y convertidos a for
 | c_mnpio          | Clave Municipio (INEGI, Marzo 2013)                                   |
 | id_asenta_cpcons | Identificador único del asentamiento (nivel municipal)                |
 | d_zona           | Zona en la que se ubica el asentamiento (Urbano/Rural)                |
-| c_cve_ciudad     | Clave Ciudad (Catálogo SEPOMEX                                        |
+| c_cve_ciudad     | Clave Ciudad (Catálogo SEPOMEX)                                       |
